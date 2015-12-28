@@ -3,7 +3,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.MotionEvent;
 
-public class SplashScreen extends Activity {
+public class SplashActivity extends Activity {
     private boolean ativa = true; // Controla se foi pressionado o Touch
     
     @Override
